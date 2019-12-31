@@ -1,0 +1,107 @@
+C:\SlmBzkrtt\Eğitim\Yazılım Ve Web\Veri Yapıları\EKSS_VeriYapilariProje\EKSS_VeriYapilariProje\obj\Debug\EKSS_VeriYapilariProje.csprojAssemblyReference.cache
+C:\SlmBzkrtt\Eğitim\Yazılım Ve Web\Veri Yapıları\EKSS_VeriYapilariProje\EKSS_VeriYapilariProje\obj\Debug\MainWindow.g.cs
+C:\SlmBzkrtt\Eğitim\Yazılım Ve Web\Veri Yapıları\EKSS_VeriYapilariProje\EKSS_VeriYapilariProje\obj\Debug\App.g.cs
+C:\SlmBzkrtt\Eğitim\Yazılım Ve Web\Veri Yapıları\EKSS_VeriYapilariProje\EKSS_VeriYapilariProje\obj\Debug\EKSS_VeriYapilariProje_MarkupCompile.cache
+C:\SlmBzkrtt\Eğitim\Yazılım Ve Web\Veri Yapıları\EKSS_VeriYapilariProje\EKSS_VeriYapilariProje\obj\Debug\EKSS_VeriYapilariProje_MarkupCompile.lref
+C:\SlmBzkrtt\Eğitim\Yazılım Ve Web\Veri Yapıları\EKSS_VeriYapilariProje\EKSS_VeriYapilariProje\bin\Debug\EKSS_VeriYapilariProje.exe.config
+C:\SlmBzkrtt\Eğitim\Yazılım Ve Web\Veri Yapıları\EKSS_VeriYapilariProje\EKSS_VeriYapilariProje\bin\Debug\EKSS_VeriYapilariProje.exe
+C:\SlmBzkrtt\Eğitim\Yazılım Ve Web\Veri Yapıları\EKSS_VeriYapilariProje\EKSS_VeriYapilariProje\bin\Debug\EKSS_VeriYapilariProje.pdb
+C:\SlmBzkrtt\Eğitim\Yazılım Ve Web\Veri Yapıları\EKSS_VeriYapilariProje\EKSS_VeriYapilariProje\obj\Debug\MainWindow.baml
+C:\SlmBzkrtt\Eğitim\Yazılım Ve Web\Veri Yapıları\EKSS_VeriYapilariProje\EKSS_VeriYapilariProje\obj\Debug\EKSS_VeriYapilariProje.g.resources
+C:\SlmBzkrtt\Eğitim\Yazılım Ve Web\Veri Yapıları\EKSS_VeriYapilariProje\EKSS_VeriYapilariProje\obj\Debug\EKSS_VeriYapilariProje.Properties.Resources.resources
+C:\SlmBzkrtt\Eğitim\Yazılım Ve Web\Veri Yapıları\EKSS_VeriYapilariProje\EKSS_VeriYapilariProje\obj\Debug\EKSS_VeriYapilariProje.csproj.GenerateResource.cache
+C:\SlmBzkrtt\Eğitim\Yazılım Ve Web\Veri Yapıları\EKSS_VeriYapilariProje\EKSS_VeriYapilariProje\obj\Debug\EKSS_VeriYapilariProje.csproj.CoreCompileInputs.cache
+C:\SlmBzkrtt\Eğitim\Yazılım Ve Web\Veri Yapıları\EKSS_VeriYapilariProje\EKSS_VeriYapilariProje\obj\Debug\EKSS_VeriYapilariProje.exe
+C:\SlmBzkrtt\Eğitim\Yazılım Ve Web\Veri Yapıları\EKSS_VeriYapilariProje\EKSS_VeriYapilariProje\obj\Debug\EKSS_VeriYapilariProje.pdb
+C:\SlmBzkrtt\Eğitim\Yazılım Ve Web\Veri Yapıları\EKSS_VeriYapilariProje\EKSS_VeriYapilariProje\bin\Debug\itextsharp.dll
+C:\SlmBzkrtt\Eğitim\Yazılım Ve Web\Veri Yapıları\EKSS_VeriYapilariProje\EKSS_VeriYapilariProje\bin\Debug\itextsharp.xml
+C:\SlmBzkrtt\Eğitim\Yazılım Ve Web\Veri Yapıları\EKSS_VeriYapilariProje\EKSS_VeriYapilariProje\obj\Debug\EKSS_VeriYapilariProje.csproj.CopyComplete
+C:\Users\Emrullah\Desktop\EKSS_VeriYapilariProje\EKSS_VeriYapilariProje\bin\Debug\EKSS_VeriYapilariProje.exe.config
+C:\Users\Emrullah\Desktop\EKSS_VeriYapilariProje\EKSS_VeriYapilariProje\bin\Debug\EKSS_VeriYapilariProje.exe
+C:\Users\Emrullah\Desktop\EKSS_VeriYapilariProje\EKSS_VeriYapilariProje\bin\Debug\EKSS_VeriYapilariProje.pdb
+C:\Users\Emrullah\Desktop\EKSS_VeriYapilariProje\EKSS_VeriYapilariProje\bin\Debug\itextsharp.dll
+C:\Users\Emrullah\Desktop\EKSS_VeriYapilariProje\EKSS_VeriYapilariProje\bin\Debug\itextsharp.xml
+C:\Users\Emrullah\Desktop\EKSS_VeriYapilariProje\EKSS_VeriYapilariProje\obj\Debug\EKSS_VeriYapilariProje.csprojAssemblyReference.cache
+C:\Users\Emrullah\Desktop\EKSS_VeriYapilariProje\EKSS_VeriYapilariProje\obj\Debug\MainWindow.g.cs
+C:\Users\Emrullah\Desktop\EKSS_VeriYapilariProje\EKSS_VeriYapilariProje\obj\Debug\App.g.cs
+C:\Users\Emrullah\Desktop\EKSS_VeriYapilariProje\EKSS_VeriYapilariProje\obj\Debug\EKSS_VeriYapilariProje_MarkupCompile.cache
+C:\Users\Emrullah\Desktop\EKSS_VeriYapilariProje\EKSS_VeriYapilariProje\obj\Debug\EKSS_VeriYapilariProje_MarkupCompile.lref
+C:\Users\Emrullah\Desktop\EKSS_VeriYapilariProje\EKSS_VeriYapilariProje\obj\Debug\MainWindow.baml
+C:\Users\Emrullah\Desktop\EKSS_VeriYapilariProje\EKSS_VeriYapilariProje\obj\Debug\EKSS_VeriYapilariProje.g.resources
+C:\Users\Emrullah\Desktop\EKSS_VeriYapilariProje\EKSS_VeriYapilariProje\obj\Debug\EKSS_VeriYapilariProje.Properties.Resources.resources
+C:\Users\Emrullah\Desktop\EKSS_VeriYapilariProje\EKSS_VeriYapilariProje\obj\Debug\EKSS_VeriYapilariProje.csproj.GenerateResource.cache
+C:\Users\Emrullah\Desktop\EKSS_VeriYapilariProje\EKSS_VeriYapilariProje\obj\Debug\EKSS_VeriYapilariProje.csproj.CoreCompileInputs.cache
+C:\Users\Emrullah\Desktop\EKSS_VeriYapilariProje\EKSS_VeriYapilariProje\obj\Debug\EKSS_VeriYapilariProje.csproj.CopyComplete
+C:\Users\Emrullah\Desktop\EKSS_VeriYapilariProje\EKSS_VeriYapilariProje\obj\Debug\EKSS_VeriYapilariProje.exe
+C:\Users\Emrullah\Desktop\EKSS_VeriYapilariProje\EKSS_VeriYapilariProje\obj\Debug\EKSS_VeriYapilariProje.pdb
+C:\Users\slmbz\Desktop\Yeni klasör (3)\EKSS_VeriYapilariProje\EKSS_VeriYapilariProje\bin\Debug\EKSS_VeriYapilariProje.exe.config
+C:\Users\slmbz\Desktop\Yeni klasör (3)\EKSS_VeriYapilariProje\EKSS_VeriYapilariProje\bin\Debug\EKSS_VeriYapilariProje.exe
+C:\Users\slmbz\Desktop\Yeni klasör (3)\EKSS_VeriYapilariProje\EKSS_VeriYapilariProje\bin\Debug\EKSS_VeriYapilariProje.pdb
+C:\Users\slmbz\Desktop\Yeni klasör (3)\EKSS_VeriYapilariProje\EKSS_VeriYapilariProje\bin\Debug\itextsharp.dll
+C:\Users\slmbz\Desktop\Yeni klasör (3)\EKSS_VeriYapilariProje\EKSS_VeriYapilariProje\bin\Debug\itextsharp.xml
+C:\Users\slmbz\Desktop\Yeni klasör (3)\EKSS_VeriYapilariProje\EKSS_VeriYapilariProje\obj\Debug\EKSS_VeriYapilariProje.csprojAssemblyReference.cache
+C:\Users\slmbz\Desktop\Yeni klasör (3)\EKSS_VeriYapilariProje\EKSS_VeriYapilariProje\obj\Debug\MainWindow.g.cs
+C:\Users\slmbz\Desktop\Yeni klasör (3)\EKSS_VeriYapilariProje\EKSS_VeriYapilariProje\obj\Debug\App.g.cs
+C:\Users\slmbz\Desktop\Yeni klasör (3)\EKSS_VeriYapilariProje\EKSS_VeriYapilariProje\obj\Debug\EKSS_VeriYapilariProje_MarkupCompile.cache
+C:\Users\slmbz\Desktop\Yeni klasör (3)\EKSS_VeriYapilariProje\EKSS_VeriYapilariProje\obj\Debug\EKSS_VeriYapilariProje_MarkupCompile.lref
+C:\Users\slmbz\Desktop\Yeni klasör (3)\EKSS_VeriYapilariProje\EKSS_VeriYapilariProje\obj\Debug\MainWindow.baml
+C:\Users\slmbz\Desktop\Yeni klasör (3)\EKSS_VeriYapilariProje\EKSS_VeriYapilariProje\obj\Debug\EKSS_VeriYapilariProje.g.resources
+C:\Users\slmbz\Desktop\Yeni klasör (3)\EKSS_VeriYapilariProje\EKSS_VeriYapilariProje\obj\Debug\EKSS_VeriYapilariProje.Properties.Resources.resources
+C:\Users\slmbz\Desktop\Yeni klasör (3)\EKSS_VeriYapilariProje\EKSS_VeriYapilariProje\obj\Debug\EKSS_VeriYapilariProje.csproj.GenerateResource.cache
+C:\Users\slmbz\Desktop\Yeni klasör (3)\EKSS_VeriYapilariProje\EKSS_VeriYapilariProje\obj\Debug\EKSS_VeriYapilariProje.csproj.CoreCompileInputs.cache
+C:\Users\slmbz\Desktop\Yeni klasör (3)\EKSS_VeriYapilariProje\EKSS_VeriYapilariProje\obj\Debug\EKSS_VeriYapilariProje.csproj.CopyComplete
+C:\Users\slmbz\Desktop\Yeni klasör (3)\EKSS_VeriYapilariProje\EKSS_VeriYapilariProje\obj\Debug\EKSS_VeriYapilariProje.exe
+C:\Users\slmbz\Desktop\Yeni klasör (3)\EKSS_VeriYapilariProje\EKSS_VeriYapilariProje\obj\Debug\EKSS_VeriYapilariProje.pdb
+C:\Users\slmbz\Desktop\Yeni klasör (3)\EKSS_VeriYapilariProje51\EKSS_VeriYapilariProje\bin\Debug\EKSS_VeriYapilariProje.exe.config
+C:\Users\slmbz\Desktop\Yeni klasör (3)\EKSS_VeriYapilariProje51\EKSS_VeriYapilariProje\bin\Debug\EKSS_VeriYapilariProje.exe
+C:\Users\slmbz\Desktop\Yeni klasör (3)\EKSS_VeriYapilariProje51\EKSS_VeriYapilariProje\bin\Debug\EKSS_VeriYapilariProje.pdb
+C:\Users\slmbz\Desktop\Yeni klasör (3)\EKSS_VeriYapilariProje51\EKSS_VeriYapilariProje\bin\Debug\itextsharp.dll
+C:\Users\slmbz\Desktop\Yeni klasör (3)\EKSS_VeriYapilariProje51\EKSS_VeriYapilariProje\bin\Debug\itextsharp.xml
+C:\Users\slmbz\Desktop\Yeni klasör (3)\EKSS_VeriYapilariProje51\EKSS_VeriYapilariProje\obj\Debug\EKSS_VeriYapilariProje.csprojAssemblyReference.cache
+C:\Users\slmbz\Desktop\Yeni klasör (3)\EKSS_VeriYapilariProje51\EKSS_VeriYapilariProje\obj\Debug\MainWindow.g.cs
+C:\Users\slmbz\Desktop\Yeni klasör (3)\EKSS_VeriYapilariProje51\EKSS_VeriYapilariProje\obj\Debug\App.g.cs
+C:\Users\slmbz\Desktop\Yeni klasör (3)\EKSS_VeriYapilariProje51\EKSS_VeriYapilariProje\obj\Debug\EKSS_VeriYapilariProje_MarkupCompile.cache
+C:\Users\slmbz\Desktop\Yeni klasör (3)\EKSS_VeriYapilariProje51\EKSS_VeriYapilariProje\obj\Debug\EKSS_VeriYapilariProje_MarkupCompile.lref
+C:\Users\slmbz\Desktop\Yeni klasör (3)\EKSS_VeriYapilariProje51\EKSS_VeriYapilariProje\obj\Debug\MainWindow.baml
+C:\Users\slmbz\Desktop\Yeni klasör (3)\EKSS_VeriYapilariProje51\EKSS_VeriYapilariProje\obj\Debug\EKSS_VeriYapilariProje.g.resources
+C:\Users\slmbz\Desktop\Yeni klasör (3)\EKSS_VeriYapilariProje51\EKSS_VeriYapilariProje\obj\Debug\EKSS_VeriYapilariProje.Properties.Resources.resources
+C:\Users\slmbz\Desktop\Yeni klasör (3)\EKSS_VeriYapilariProje51\EKSS_VeriYapilariProje\obj\Debug\EKSS_VeriYapilariProje.csproj.GenerateResource.cache
+C:\Users\slmbz\Desktop\Yeni klasör (3)\EKSS_VeriYapilariProje51\EKSS_VeriYapilariProje\obj\Debug\EKSS_VeriYapilariProje.csproj.CoreCompileInputs.cache
+C:\Users\slmbz\Desktop\Yeni klasör (3)\EKSS_VeriYapilariProje51\EKSS_VeriYapilariProje\obj\Debug\EKSS_VeriYapilariProje.csproj.CopyComplete
+C:\Users\slmbz\Desktop\Yeni klasör (3)\EKSS_VeriYapilariProje51\EKSS_VeriYapilariProje\obj\Debug\EKSS_VeriYapilariProje.exe
+C:\Users\slmbz\Desktop\Yeni klasör (3)\EKSS_VeriYapilariProje51\EKSS_VeriYapilariProje\obj\Debug\EKSS_VeriYapilariProje.pdb
+C:\Users\slmbz\Desktop\EKSS_VeriYapilariProje51\EKSS_VeriYapilariProje\bin\Debug\EKSS_VeriYapilariProje.exe.config
+C:\Users\slmbz\Desktop\EKSS_VeriYapilariProje51\EKSS_VeriYapilariProje\bin\Debug\EKSS_VeriYapilariProje.exe
+C:\Users\slmbz\Desktop\EKSS_VeriYapilariProje51\EKSS_VeriYapilariProje\bin\Debug\EKSS_VeriYapilariProje.pdb
+C:\Users\slmbz\Desktop\EKSS_VeriYapilariProje51\EKSS_VeriYapilariProje\bin\Debug\itextsharp.dll
+C:\Users\slmbz\Desktop\EKSS_VeriYapilariProje51\EKSS_VeriYapilariProje\bin\Debug\itextsharp.xml
+C:\Users\slmbz\Desktop\EKSS_VeriYapilariProje51\EKSS_VeriYapilariProje\obj\Debug\EKSS_VeriYapilariProje.csprojAssemblyReference.cache
+C:\Users\slmbz\Desktop\EKSS_VeriYapilariProje51\EKSS_VeriYapilariProje\obj\Debug\MainWindow.g.cs
+C:\Users\slmbz\Desktop\EKSS_VeriYapilariProje51\EKSS_VeriYapilariProje\obj\Debug\App.g.cs
+C:\Users\slmbz\Desktop\EKSS_VeriYapilariProje51\EKSS_VeriYapilariProje\obj\Debug\EKSS_VeriYapilariProje_MarkupCompile.cache
+C:\Users\slmbz\Desktop\EKSS_VeriYapilariProje51\EKSS_VeriYapilariProje\obj\Debug\EKSS_VeriYapilariProje_MarkupCompile.lref
+C:\Users\slmbz\Desktop\EKSS_VeriYapilariProje51\EKSS_VeriYapilariProje\obj\Debug\MainWindow.baml
+C:\Users\slmbz\Desktop\EKSS_VeriYapilariProje51\EKSS_VeriYapilariProje\obj\Debug\EKSS_VeriYapilariProje.g.resources
+C:\Users\slmbz\Desktop\EKSS_VeriYapilariProje51\EKSS_VeriYapilariProje\obj\Debug\EKSS_VeriYapilariProje.Properties.Resources.resources
+C:\Users\slmbz\Desktop\EKSS_VeriYapilariProje51\EKSS_VeriYapilariProje\obj\Debug\EKSS_VeriYapilariProje.csproj.GenerateResource.cache
+C:\Users\slmbz\Desktop\EKSS_VeriYapilariProje51\EKSS_VeriYapilariProje\obj\Debug\EKSS_VeriYapilariProje.csproj.CoreCompileInputs.cache
+C:\Users\slmbz\Desktop\EKSS_VeriYapilariProje51\EKSS_VeriYapilariProje\obj\Debug\EKSS_VeriYapilariProje.csproj.CopyComplete
+C:\Users\slmbz\Desktop\EKSS_VeriYapilariProje51\EKSS_VeriYapilariProje\obj\Debug\EKSS_VeriYapilariProje.exe
+C:\Users\slmbz\Desktop\EKSS_VeriYapilariProje51\EKSS_VeriYapilariProje\obj\Debug\EKSS_VeriYapilariProje.pdb
+C:\Users\serkan\Desktop\proje\EKSS_VeriYapilariProje51\EKSS_VeriYapilariProje\bin\Debug\EKSS_VeriYapilariProje.exe.config
+C:\Users\serkan\Desktop\proje\EKSS_VeriYapilariProje51\EKSS_VeriYapilariProje\bin\Debug\EKSS_VeriYapilariProje.exe
+C:\Users\serkan\Desktop\proje\EKSS_VeriYapilariProje51\EKSS_VeriYapilariProje\bin\Debug\EKSS_VeriYapilariProje.pdb
+C:\Users\serkan\Desktop\proje\EKSS_VeriYapilariProje51\EKSS_VeriYapilariProje\bin\Debug\itextsharp.dll
+C:\Users\serkan\Desktop\proje\EKSS_VeriYapilariProje51\EKSS_VeriYapilariProje\bin\Debug\itextsharp.xml
+C:\Users\serkan\Desktop\proje\EKSS_VeriYapilariProje51\EKSS_VeriYapilariProje\obj\Debug\EKSS_VeriYapilariProje.csprojAssemblyReference.cache
+C:\Users\serkan\Desktop\proje\EKSS_VeriYapilariProje51\EKSS_VeriYapilariProje\obj\Debug\MainWindow.g.cs
+C:\Users\serkan\Desktop\proje\EKSS_VeriYapilariProje51\EKSS_VeriYapilariProje\obj\Debug\App.g.cs
+C:\Users\serkan\Desktop\proje\EKSS_VeriYapilariProje51\EKSS_VeriYapilariProje\obj\Debug\EKSS_VeriYapilariProje_MarkupCompile.cache
+C:\Users\serkan\Desktop\proje\EKSS_VeriYapilariProje51\EKSS_VeriYapilariProje\obj\Debug\EKSS_VeriYapilariProje_MarkupCompile.lref
+C:\Users\serkan\Desktop\proje\EKSS_VeriYapilariProje51\EKSS_VeriYapilariProje\obj\Debug\MainWindow.baml
+C:\Users\serkan\Desktop\proje\EKSS_VeriYapilariProje51\EKSS_VeriYapilariProje\obj\Debug\EKSS_VeriYapilariProje.g.resources
+C:\Users\serkan\Desktop\proje\EKSS_VeriYapilariProje51\EKSS_VeriYapilariProje\obj\Debug\EKSS_VeriYapilariProje.Properties.Resources.resources
+C:\Users\serkan\Desktop\proje\EKSS_VeriYapilariProje51\EKSS_VeriYapilariProje\obj\Debug\EKSS_VeriYapilariProje.csproj.GenerateResource.cache
+C:\Users\serkan\Desktop\proje\EKSS_VeriYapilariProje51\EKSS_VeriYapilariProje\obj\Debug\EKSS_VeriYapilariProje.csproj.CopyComplete
+C:\Users\serkan\Desktop\proje\EKSS_VeriYapilariProje51\EKSS_VeriYapilariProje\obj\Debug\EKSS_VeriYapilariProje.exe
+C:\Users\serkan\Desktop\proje\EKSS_VeriYapilariProje51\EKSS_VeriYapilariProje\obj\Debug\EKSS_VeriYapilariProje.pdb
